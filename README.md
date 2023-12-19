@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Welcome to the Stock Market Kafka Real-Time Data Engineering Project! In this project, I created an end-to-end data engineering project focused on real-time stock market data analysis using Apache Kafka.
+Stock Market Kafka Real-Time Data Engineering Project! 
+
+In this project, I created an end-to-end data engineering project focused on real-time stock market data analysis using Apache Kafka.
 
 ## Project Scope
 
